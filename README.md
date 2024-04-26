@@ -92,3 +92,7 @@ Tawarkan diskon atau paket khusus untuk pemesanan jangka panjang di wilayah Inne
 informasi unik, foto berkualitas tinggi, dan deskripsi menarik. Perbarui harga secara berkala sesuai dengan tren pasar dan kebutuhan tamu.
 Selalu perhatikan umpan balik tamu dan gunakan sebagai bahan evaluasi dan peningkatan. Dengan mengikuti rekomendasi ini, diharapkan listing
 Airbnb di berbagai wilayah di Bangkok dapat menarik lebih banyak tamu dan memenuhi berbagai preferensi pengguna.
+
+
+**Link To Tableu Public**
+https://public.tableau.com/app/profile/muhammad.umar.fatwa.ilhami/viz/AirBnBBangkok_17140367459100/Dashboard1?publish=yes
